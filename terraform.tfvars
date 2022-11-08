@@ -1,0 +1,8 @@
+client_secret    = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+env_prefix       = "demo"
+env_region       = "IN"
+env_subscription = "CSP"
+vnet_cidr        = "10.0.0.0/8"
+subnet1_prefix   = "10.240.0.0/16"
+subnet2_cidr     = "192.168.2.0/24"
+location         = "West Europe"
